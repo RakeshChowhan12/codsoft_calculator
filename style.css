@@ -1,0 +1,15 @@
+div{
+  border: 50%;
+  width:fit-content;
+  border: 1.5px solid rgb(57, 6, 197);
+  padding:30px;
+  background-color: chartreuse;
+  width: 270px;
+  box-shadow: blue;
+}
+button{
+  border-color: black;
+  background-color: darkorange;
+  width: 30px;
+  cursor: pointer;
+}
